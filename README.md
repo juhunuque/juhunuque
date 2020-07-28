@@ -30,6 +30,13 @@ I am a software engineer experienced in different technologies. Through the year
     <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="Twitter" width="35" height="35" style="vertical-align:top; margin:4px" />
 </p>
 
+
+### Studies 📚
+* Computer Engineering - Bachelor’s Degree
+* Software Design and Architecture Specialization - University of Alberta
+* AWS Certified Developer Associate - Amazon Web Services
+* Oracle Certified Associate, JAVA SE 7 Programmer - Oracle
+
 ### Reach me out ✉️
 Let's talk if you need help with your software
 </br>
