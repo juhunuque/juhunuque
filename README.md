@@ -3,7 +3,7 @@
 ## Who am I?
 I am a software engineer experienced in different technologies. Through the years I have had the opportunity to work with different languages, frameworks, and systems, enabling me to have wide judgment when I have to collaborate in a project. *Generalist, problem resolver and team player*.
 ```
-[Senior software engineer, Technical lead, Fullstack developer, Cloud Engineer]
+[Solutions architect, Senior software engineer, Technical lead, Fullstack developer, Cloud Engineer]
 ```
 
 ### Current duties 💼
